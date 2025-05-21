@@ -1,5 +1,4 @@
-
-name: Hackathon
+name: alb-uc-1
 
 on:
   push:
